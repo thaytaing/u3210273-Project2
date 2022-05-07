@@ -70,17 +70,20 @@ footer {
 }
 
 .hero {
-    text-align: center;
-    background: #a5a5a5;
-    min-height: 5em;
+    background-image: url(../images/9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    background-position: center;
+
+    text-align: justify;
     padding: 2em;
     margin: 1em 0;
+
     /* vertically align */
     display: flex;
     align-items: center;
     justify-content: center;
-
-
 }
 
 
