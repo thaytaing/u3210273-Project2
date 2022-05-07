@@ -34,16 +34,39 @@ p {
     line-height: 2em;
     margin-bottom: 1.5em;
 }
+ul {
+    list-style-type: circle;
+    line-height: 1.5em;
+    margin-bottom: 4.5em;
+}
+
+li {
+    font-size: 1.2em;
+}
 
 .inner-wrapper {
     width: 90%;
     margin: 0 auto;
 }
 
-header,
+header {
+    padding: 1em 0;
+    background-image: url(../images/head7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin: 0px;
+}
+
+
 footer {
-    background-color: #777999;
     padding: 2em 0;
+
+    background-image: url(../images/footer.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50px;
+    background-position: center;
 }
 
 .hero {
