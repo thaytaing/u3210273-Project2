@@ -3,17 +3,12 @@
 layout: layouts/homepage
 
 # set the page title
-title: 11056 Project 2 Starter
+title: WELCOME TO CANBERRA
 
-# We can set extra info here to use in our templates
+
+## We can set extra info here to use in our templates
 
 hero:
-    title: "I am the hero title!"
-----
+    title: "PARLIAMENT OF AUSTRALIA"
+---
 
-
-# Hello!
-
-## I am your index.md file
-
-Any content you add to this markdown file will be displayed on the homepage 
