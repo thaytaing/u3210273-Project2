@@ -10,20 +10,28 @@ body {
 h1 {
     font-size: 2em;
     /* shorthand for TOP RIGHT BOTTOM LEFT */
-    /* margin: 1em 0 1.5em 0; */
+    margin: 1em 0 1em;
+    text-align: left;
+    font-family: Arial 'Blackadder ITC';
 }
 
 h2 {
     font-size: 1.6em;
+    padding: 10% 20% 9% 20%;
+    text-align: center;
 }
 
 h3 {
     font-size: 1.4em;
+    line-height: 1.2em;
+    font-family: Franklin Gothic Medium;
+    margin-bottom: 1em;
+    margin-top: 1em;
 }
 
 p {
     font-size: 1.2em;
-    line-height: 1.5em;
+    line-height: 2em;
     margin-bottom: 1.5em;
 }
 
