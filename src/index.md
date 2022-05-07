@@ -37,3 +37,15 @@ hero:
 ### Peaceful environment
 ![alt text](assets/images/6.jpg)
 
+
+### Many national events are held in Canberra, including the National Folk Festival 2022.
+Our folk family is both continuing and curious about our new home, so it's a welcome home. In Canberra, Ngunnawal country, to celebrate with us.
+
+![alt text](assets/images/folk.jpg)
+
+
+### Canberra International Music Festival
+Experience a musical adventure together in Canberra.
+"The Festival is an event of national significance: stimulating, provocative and deeply satisfying on so many levels." Vincent Plush, The Australian
+
+![alt text](assets/images/music2.jpg)
