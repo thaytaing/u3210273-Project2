@@ -1,28 +1,14 @@
-# 11056-project2
+Reflection
 
-## 11056 Project 2 Starter
 
-This is repo containing everything you need to start Project 2. All you need to do is clone this repository to your computer and start editing...
 
-Make sure you refer to Canvas for more info.
+It is designed to engage the public and to provide an opportunity for people to gain a deeper understanding of Canberra, a city of beautiful nature, peaceful surroundings and art festivals.
 
-## Install Elventy
-From Terminal, navigate to the folder you saved the repository in:
 
-Type `npm create`
+In fact, audience members are quite attracted to one-page webpages that contain words, paraphrases, and images. To provide interactive communication with target audiences, the website is based on HTML and CSS.
 
-or, if that doesn't work: `npm install --save-dev @11ty/eleventy`
 
-## Test your site
+Several improvements have been made to the page, such as a mobile-friendly design that allows users to experience the website on different devices such as laptops, tablets, and mobile phones.
 
-Open Terminal and type: `npm start`
 
-This will create a local server to test the website.
-
-Go to: http://localhost:8080 to view your site
-
-## Build the site
-
-Run `npm build`
-
-Open up your site folder and you'll discover a folder within it called `final-website` this is where your actual site files are located. 
+The most important thing for a webpage is to have a meaningful title and a short sentence explanation so that the audience isn't bored reading too many words.
